@@ -1,0 +1,1 @@
+Tech stack used : Python, Libraries, sql
